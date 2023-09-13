@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchenovo&show_icons=true&theme=synthwave)
+You are my ![Visitor Count](https://profile-counter.glitch.me/yuchenovo/count.svg) visitor,Thank You！ :blue_heart: :green_heart: :purple_heart: :heartpulse: :yellow_heart:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchenovo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchenovo&show_icons=true&theme=synthwave)
+
+
